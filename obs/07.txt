@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?direct&}}
 
-Və̀wenə nkwiə kuʔə Yàkob kòŋə̀ ə ndìʔ ta əchungə̀ŋ, Esò kò ŋə̀ ə mbumə. Rèbekà lə kò ŋə̀  Yàkob, Azìk kò ŋə̀ Esò .
+Və̀wenə nkwiə kuʔə Yàkob kòŋə̀ ə ndìʔ ta əchungə̀ŋ, Esò kò ŋə̀ ə mbumə. Rèbekà lə kò ŋə̀ Yàkob, Azìk kò ŋə̀ Esò .
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-02.jpg?direct&}}
 
@@ -40,4 +40,4 @@ Yàkob mfwànə̀ kwòʔtə̀ la Esò mbo nkəŋə ə zhwi yì. Ghə̀ tɨm
 
 A lì mu Esò nlyesə̀ li ə ku Yàkob, vlə̀wenə saŋlə ə bɛ yenmə. Yàkob bɛ̀ sə̀ tsi nə̀ mbwaʔmə̀ a Kanàn. À sə̀ laʔtə Azìk pfɨ, Yàkob wenə̀ Esò bvɨ̀mə̀ wen. Məkàyn myì a Nyìngòŋ ə̀ nkanə wenə̀ Abàham mə̀ chò fa Azìk ə̀ shiʔə à Yàkob.
 
-//Fə̀tǐtì fa nwàʔlə̀ ə̀ Nyìngòŋ: Genesis 25:27-33:20//
+//Fə̀tǐtì fa nwàʔlə̀ ə̀ Nyìngòŋ fa: Genesis 25:27-33:20//
