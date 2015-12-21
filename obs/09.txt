@@ -2,15 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?direct&}}
 
-Jòsef mpfʉ viʔi ə wenə sè ta Igyìb. Və̀wenə mfàŋ tsu ə̀ sə̀ bwiə ghoʔə djʉ̀ə̀. Ngwʉ̀sə sə chò ə ghoʔtə mu və̀wenə kiʔi li ngwàʔ ə̀ wàyn ta kədɨ̀ŋ. Və ndzàŋə̀ və̀wenə la vunə Isrèl.
+Jòsef mpfʉ viʔi ə wenə sè ta Igyìb. Vəwenə mfàŋ tsu ə̀ sə̀ bwiə ghoʔə djʉ̀ə̀. Ngwʉ̀sə sə chò ə ghoʔtə mu vəwenə kiʔi li ngwàʔ ə̀ wàyn ta kədɨ̀ŋ. Və ndzàŋə̀ vəwenə la vunə Isrèl.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg?direct&}}
 
-Ngwʉ̀sə sə nchò li ə zaʔə təghɨ ta k ədɨ̀ŋ vunə Isrèl ə ghoʔ noʔə̀ nànto . Kə ntsi li ə̀ chò viʔi Igyìb ə lyèsə̀ Jòsef nə̀ gyàmtə̀ a ghə̀ nku à və̀wenə. Viʔi Igyìb ə zìə sə̀ fwànə̀ vunə Isrèl byì tàndə və̀wenə̀ nghoʔə nànto. Kə ghoʔ Ferò a ghə̀ ndìʔ fòynə̀ Igyìb ghə̀ nè la vunə Isrèl ndìʔ əkòs ə viʔi Igyìb.
+Ngwʉ̀sə sə nchò li ə zaʔə təghɨ ta k ədɨ̀ŋ vunə Isrèl ə ghoʔ noʔə̀ nànto . Kə ntsi li ə̀ chò viʔi Igyìb ə lyèsə̀ Jòsef nə̀ gyàmtə̀ a ghə̀ nku à vəwenə. Viʔi Igyìb ə zìə sə̀ fwànə̀ vunə Isrèl byì tàndə vəwenə̀ nghoʔə nànto. Kə ghoʔ Ferò a ghə̀ ndìʔ fòynə̀ Igyìb ghə̀ nè la vunə Isrèl ndìʔ əkòs ə viʔi Igyìb.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?direct&}}
 
-Viʔi Igyìb ə nnè vunə Isrèl shyèʔə̀ kəkòs noʔə̀ nànto, bwomə aloʔ, bwomə tɛ̀ ətɨm ə mpfensə. Əshyèʔ ə̀ toghə̀ ayì ə nnè vunə Isrèl sè ta ngəʔ, a lì Nyìngòŋ bwaʔsə və̀wenə nə̀ vunə ta kədɨ̀ŋ.
+Viʔi Igyìb ə nnè vunə Isrèl shyèʔə̀ kəkòs noʔə̀ nànto, bwomə aloʔ, bwomə tɛ̀ ətɨm ə mpfensə. Əshyèʔ ə̀ toghə̀ ayì ə nnè vunə Isrèl sè ta ngəʔ, a lì Nyìngòŋ bwaʔsə vəwenə nə̀ vunə ta kədɨ̀ŋ.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-04.jpg?direct&}}
 
@@ -22,7 +22,7 @@ Wùwì isrèl ətsen bwi wàyn ə wùlɨm a mənsti ayì. Wenə̀ lɨm ə 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-06.jpg?direct&}}
 
-Kə nghoʔ li vətìʔ və wàyn ayì və̀wenə kəŋə nkyè ə̀ wye ə wen tsu ə̀ djʉ̀ ə lyəŋsə a mù mə̀ Naìl ti kə və zhwi ə wen. Lə̀mə̀ ə wen ə wùwì ə totə lyòmtə̀ sə̀ lyè jì a ghə̀ a lyəŋ djʉ̀.
+Kə nghoʔ li vətìʔ və wàyn ayì vəwenə kəŋə nkyè ə̀ wye ə wen tsu ə̀ djʉ̀ ə lyəŋsə a mù mə̀ Naìl ti kə və zhwi ə wen. Lə̀mə̀ ə wen ə wùwì ə totə lyòmtə̀ sə̀ lyè jì a ghə̀ a lyəŋ djʉ̀.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?direct&}}
 
@@ -50,11 +50,11 @@ Kətsi kətsen Musìs tsiə byisə ə wen sətsèn kəshi kə ətoʔ kət sen 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?direct&}}
 
-Nyìngòŋ gàʔ, “Màə yen li ngəʔ ə̀ vunə vwomə. Mà a tɨm wù a Ferò ti wù djʉ̀ ə̀ shìsə̀ və̀wenə fa ngəʔ a Igyìb. Màə ku əloʔ ə Kanàn à vəwenə, əloʔ yì a Mà nkanə̀ la Màə ne ku a Abàham. Azìk, nə̀ Jàkob. ”
+Nyìngòŋ gàʔ, “Màə yen li ngəʔ ə̀ vunə vwomə. Mà a tɨm wù a Ferò ti wù djʉ̀ ə̀ shìsə̀ vəwenə fa ngəʔ a Igyìb. Mà ə ku əloʔ ə Kanàn à vəwenə, əloʔ yì a Mà nkanə̀ la Màə ne ku a Abàham. Azìk, nə̀ Yàkob. ”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?direct&}}
 
-Musìs ə mbèmə̀ li la, “Mà gàʔ la ghɔ̀ à və̀wenə a əzhu a sətsèn və bèm la à tɨm ndə ntɨm mò a?” God said, “MÀ DÌʔ MÒ A MÀ DÌʔ. Gàʔə à və̀wenə la, ‘À tɨm MÀ DÌʔ ə tɨm wù .’ Bɛ̀ gàʔ à və̀wenə la , ‘MÀ DÌʔ Yawè, Nyìngòŋ ə̀ vətìʔ ə vyəŋə Abàham, Azìk, nə̀ Yàkob.’ A lə̀ əzhiʔ ə ghomə lə̀.”
+Musìs ə mbèmə̀, “Mà gàʔ la ghɔ̀ à vəwenə a əzhu a sətsèn və bèm la à tɨm ndə ntɨm mò a?” God said, “MÀ DÌʔ MÒ A MÀ DÌʔ. Gàʔə à vəwenə, ‘À tɨm MÀ DÌʔ ə tɨm wù .’ Ə bɛ̀ gàʔ à vəwenə, ‘MÀ DÌʔ Yawè, Nyìngòŋ ə̀ vətìʔ ə vyəŋə Abàham, Azìk, nə̀ Yàkob.’ A lə̀ əzhiʔ ə ghomə lə̀.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?direct&}}
 
