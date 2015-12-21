@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?direct&}}
 
-Kəlyɨŋ kə dyə̀fə kə nchòə̀ lí viʔi ghoʔ a mbyi. Və̀wenə zìtə̀ sə̀ tsiə ntsɨ̀nə̀ ə byɨ. Kə byɨf ə̀ chò Nyìngòŋ wʉ la Yì a byɨfsə mbyi nə̀ muʔu.
+Kəlyɨŋ kə dyə̀fə kə nchòə̀ lí viʔi ghoʔ a mbyi. Vəwenə zìtə̀ sə̀ tsiə ntsɨ̀nə̀ ə byɨ. Kə byɨf ə̀ chò Nyìngòŋ wʉ la Yì a byɨfsə mbyi nə̀ muʔu.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?direct&}}
 
@@ -14,15 +14,15 @@ Nyìngòŋ gàʔ a Nùa la ghə̀ bwɔm kə̀baŋ akjì kə ghoʔ noʔə̀ 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?direct&}}
 
-Nùa nzhu li Nyìngòŋ wenə̀ vunə lyʉmə wen vətaʔ ə bwom kəbaŋ akyì tà a jì a Nyìngòŋ ngàʔə̀ a wen. və̀wenə nlyɨ̀ə ngwʉ̀ʔsə ta kədɨ̀ŋ ə bwom tàndə kəbaŋ akyì kə nghoʔə noʔə̀ nàntô. Nùa ə̀ nshə̀ʔtə̀ a viʔi byì muʔu namyì a mə̀ ne vì lwinə mbyi, gàʔə̀ la və̀wenə kwitə ə̀ byɨ̀mə à Nyìngòŋ, a li və̀wenə ko zhutə.
+Nùa nzhu li Nyìngòŋ wenə̀ vunə lyʉmə wen vətaʔ ə bwom kəbaŋ akyì tà a jì a Nyìngòŋ ngàʔə̀ a wen. vəwenə nlyɨ̀ə ngwʉ̀ʔsə ta kədɨ̀ŋ ə bwom tàndə kəbaŋ akyì kə nghoʔə noʔə̀ nàntô. Nùa ə̀ nshə̀ʔtə̀ a viʔi byì muʔu namyì a mə̀ ne vì lwinə mbyi, gàʔə̀ la vəwenə kwitə ə̀ byɨ̀mə à Nyìngòŋ, a li vəwenə ko zhutə.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?direct&}}
 
-Nyìngòŋ bɛ̀ gàʔ a Nùa wenə̀ gwàʔ ə̀ wen la və̀wenə kəŋ əfo ə zhɨvə ta kədɨ̀ŋ a nyamsə bɛ̀nə̀ à və̀wenə . və̀wenə mpfɨtə̀ əfo mme, Nyìngòŋ gàʔ a Nùa la əzhu kwʉʔə̀ li ə wen, wì ə wen, vunə lyʉmə ə wen vətaʔ nə̀ kyìə və̀wenə kwen a kəbaŋ ayì. Və̀wenə ndìʔ ə̀ fwòmə .
+Nyìngòŋ bɛ̀ gàʔ a Nùa wenə̀ gwàʔ ə̀ wen la vəwenə kəŋ əfo ə zhɨvə ta kədɨ̀ŋ a nyamsə bɛ̀nə̀ à vəwenə . vəwenə mpfɨtə̀ əfo mme, Nyìngòŋ gàʔ a Nùa la əzhu kwʉʔə̀ li ə wen, wì ə wen, vunə lyʉmə ə wen vətaʔ nə̀ kyìə vəwenə kwen a kəbaŋ ayì. Vəwenə ndìʔ ə̀ fwòmə .
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?direct&}}
 
-Nyìngòŋ ə mbɛ tɨ̀m ə lɨm nə̀ kyi nyamsə nə̀ mənyin a Nùa ə ghə̀ kwensə a kəbaŋ ayì tǐ nyamsə nə̀ mənyin bwoŋ. Nyìngòŋ ə ntɨ̀m tə lɨm nə̀ tə̀ kyi ə̀ sòmbô fa nyamsə a və nku kəku tsu à Nyìngòŋ. Və̀wenə̀ nkwen ə me noʔə̀ mpfenə̀ Nyìngòn chiʔ əchu ə kəbaŋ ayì.
+Nyìngòŋ ə mbɛ tɨ̀m ə lɨm nə̀ kyi nyamsə nə̀ mənyin a Nùa ə ghə̀ kwensə a kəbaŋ ayì tǐ nyamsə nə̀ mənyin bwoŋ. Nyìngòŋ ə ntɨ̀m tə lɨm nə̀ tə̀ kyi ə̀ sòmbô fa nyamsə a və nku kəku tsu à Nyìngòŋ. Vəwenə̀ nkwen ə me noʔə̀ mpfenə̀ Nyìngòn chiʔ əchu ə kəbaŋ ayì.
 
 ə̀{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?direct&}}
 
@@ -30,7 +30,7 @@ Nyìngòŋ ə mbɛ tɨ̀m ə lɨm nə̀ kyi nyamsə nə̀ mənyin a Nùa ə g
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?direct&}}
 
-Noʔə̀ əfo ətsèm a mbyi pfɨkə, à faŋ ta viʔ vyi nə̀ nyam shi nə̀ mənyin myi a chi kəbaŋ . kəbaŋ akyì kə faŋ ə̀ sə̀ lyəʔə fa kwì a mù kèn la və̀wenə lyəŋ li.
+Noʔə̀ əfo ətsèm a mbyi pfɨkə, à faŋ ta viʔ vyi nə̀ nyam shi nə̀ mənyin myi a chi kəbaŋ . kəbaŋ akyì kə faŋ ə̀ sə̀ lyəʔə fa kwì a mù kèn la vəwenə lyəŋ li.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?direct&}}
 
@@ -50,7 +50,7 @@ Nùa bɛ kə̀ʔtə̀ ə wəŋ ə mpfen ə bɛ̀ tɨm kə̀làtó akyì a gh
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?direct&}}
 
-Vəsàŋ ə bɛ̀ chò vəbò Nyìngòŋ gàʔ a Nùa la, “Wù zì wù fʉ̀ nə̀ ngwàʔ ə ngə̀ŋ ə̀ wù bènə̀ nyam shi nə̀ mənyin luwèn. Ghə̀ŋ djʉ̀ ə̀ bwì vunə ta kədɨ̀ŋ ə̀ lwìnsə mbyi tsu.” Nùa wenə̀ ngwàʔ ə̀ wen mə̀ fʉ̀ fa kəbaŋ ayì .
+Vəsàŋ ə bɛ̀ chò vəbò Nyìngòŋ gàʔ a Nùa, “Wù zì wù fʉ̀ nə̀ ngwàʔ ə ngə̀ŋ ə̀ wù bènə̀ nyam shi nə̀ mənyin luwèn. Ghə̀ŋ djʉ̀ ə̀ bwì vunə ta kədɨ̀ŋ ə̀ lwìnsə mbyi tsu.” Nùa wenə̀ ngwàʔ ə̀ wen mə̀ fʉ̀ fa kəbaŋ ayì .
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?direct&}}
 
@@ -58,7 +58,7 @@ Nùa fʉ̀ fa kəbaŋ ayì , ə̀ bwom kəshi kə kuʔsə ə̀ Nyìngòŋ ə
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?direct&}}
 
-Nyìngòŋ gàʔ la, “Màə wʉ li la Màə ko lu bɛ byɨfsə mbyi byì ənyù ə byɨvə a viʔi ne, kèn la Màə ko lu bɛ tɨm muʔu la mə̀ byɨfsə mbyi tə̀ ndə viʔi nè mbyɨ nàntô tɛ fa vunjə vəchetəvə .”
+Nyìngòŋ gàʔ, “Màə wʉ li la Màə ko lu bɛ byɨfsə mbyi byì ənyù ə byɨvə a viʔi ne, kèn la Màə ko lu bɛ tɨm muʔu la mə̀ byɨfsə mbyi tə̀ ndə viʔi nè mbyɨ nàntô tɛ fa vunjə vəchetəvə .”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?direct&}}
 
