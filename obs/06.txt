@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?direct&}}
 
-Kəlyɨŋ kətsen kə nzaʔə li mu Abàham ə dwìnə̀ li, Azìk ə nto a wùlɨm, tìʔ ə wen tɨm viʔi la vəwenə djʉ̀ a əloʔ a ghə̀ nlùə̀ fa tsu, ə̀ làm wùwì à Azìk.
+Kəlyɨŋ kətsen kə nzaʔə li mu Abàham ə dwìnə̀ li, Azìk ə̀ nto a wùlɨm, tìʔ ə wen tɨm viʔi la vəwenə djʉ̀ a əloʔ a ghə̀ nlùə̀ fa tsu, ə̀ làm wùwì à Azìk.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
 
@@ -10,15 +10,15 @@ Vəwenə njə̀ʔə̀ li ə̀ jèʔ ə̀ djʉ̀ kwen a əloʔ a Abàham ə̀ n
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?direct&}}
 
-Rèbekà ə mbyɨmə li ə lù ə kye viʔi kəbəŋ ə̀ wen ə djʉ̀ ə ndìʔ wenə̀ Azìk. Ghə̀ nvì kwen tà kwenə Azìk lam ə wen.
+Rèbekà ə̀ mbyɨmə li ə lù ə kye viʔi kəbəŋ ə̀ wen ə djʉ̀ ə ndìʔ wenə̀ Azìk. Ghə̀ nvì kwen tà kwenə Azìk lam ə wen.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?direct&}}
 
-Abàham ntsi li ə̀ kaʔ ə̀ pfɨ, Nyìngòŋ chòsə̀ məkàyn mə̀ vəwenə a Azìk. Nyìngòŋ ə̀ nkàynə̀ li la ngwàʔ ə̀ Abàham ə lu lwin ə̀ mbyi, a lì tɛ̀ wì ə Azìk, Rèbekà, nko ə̀ bwi.
+Abàham ə̀ ntsi li ə̀ kaʔ ə̀ pfɨ, Nyìngòŋ chòsə̀ məkàyn mə̀ vəwenə a Azìk. Nyìngòŋ ə̀ nkàynə̀ li la ngwàʔ ə̀ Abàham ə̀ lu lwin ə̀ mbyi, a lì tɛ̀ wì ə Azìk, Rèbekà, nko ə̀ bwi.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg?direct&}}
 
-Azìk ə njɨmə̀ li à Nyìngòŋ byì Rèbekà, Nyìngòŋ kye ghə̀ kiʔi vunə vənyìngòŋ. Vunə avyi nsonə tà a chi əbèm ə̀ Rèbekà ghə̀ bèm à Nyìngòŋ la à chòə̀ ghɔ̀ lɔ.
+Azìk ə̀ njɨmə̀ li à Nyìngòŋ byì Rèbekà, Nyìngòŋ kye ghə̀ kiʔi vunə vənyìngòŋ. Vunə avyi nsonə tà a chi əbèm ə̀ Rèbekà ghə̀ bèm à Nyìngòŋ la à chòə̀ ghɔ̀ lɔ.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?direct&}}
 
@@ -26,6 +26,6 @@ Nyìngòŋ shə̀ʔtə̀ à Rèbekà, “Ətɨm əbò a fʉ̀ fa vunə vyi
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?direct&}}
 
-Rèbekà mbwì mbì ə wàyn ghə̀ bàŋə̀ bàŋə̀ nə̀ nyɨŋsə à wen ə wen. və chʉ əzhiʔ ə wen nə̀ Esò. Əbam ə wen ə sə fʉ̀ mu ghə̀ ghaʔ li ətsɨŋ ə kə̀wu ə̀ Esò, və chʉ əzhiʔ ə wen nə̀ Yàkob.
+Rèbekà ə̀ mbwì mbì ə wàyn ghə̀ bàŋə̀ bàŋə̀ nə̀ nyɨŋsə à wen ə wen. Və chʉ əzhiʔ ə wen nə̀ Esò. Əbam ə wen ə sə fʉ̀ mu ghə̀ ghaʔ li ətsɨŋ ə kə̀wu ə̀ Esò, və chʉ əzhiʔ ə wen nə̀ Yàkob.
 
 //Fətitì fa nwàʔlə̀ ə̀ Nyìngòŋ////: Jènesìs 24:1-25:26//
